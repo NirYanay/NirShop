@@ -31,6 +31,3 @@ Also, an administrator can update the details of the products, confirm orders an
 - 1 - cd frontend
 - 2 - npm install
 
-#� �N�i�r�S�h�o�p�
-�
-�
